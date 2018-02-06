@@ -1,3 +1,9 @@
+[![Scrutinizer code quality](https://scrutinizer-ci.com/g/JCID/webservices.nl/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JCID/webservices.nl/?branch=master)
+[![Packagist latest stable version](https://poser.pugx.org/jcid/webservices/v/stable)](https://packagist.org/packages/jcid/webservices)
+[![StyleCI](https://styleci.io/repos/120330951/shield)](https://styleci.io/repos/120330951)
+[![Packagist total downloads](https://poser.pugx.org/jcid/webservices/downloads)](https://packagist.org/packages/jcid/webservices)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/df5f1dc6-6f0c-4a29-bfb5-5a136f1b1a58/mini.png)](https://insight.sensiolabs.com/projects/df5f1dc6-6f0c-4a29-bfb5-5a136f1b1a58)
+
 # Webservices.nl
 
 This package has been generated from the [Webservices.nl WSDL](https://ws1.webservices.nl/soap_doclit?wsdl) using the [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) project.
